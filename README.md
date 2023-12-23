@@ -37,7 +37,7 @@ This web app has the following features:
 
 To install this project, you need to simply clone this repository to your local machine. You can use the following command in your terminal:
 
-git clone https://github.com/samunicode/MUJ-Central.git
+git clone https://github.com/rishii100/MUJ-Central.git
 
 ## License
 
@@ -51,6 +51,3 @@ This project is open for contributions. If you want to contribute, you can fork 
 
 This project does not have any tests at the moment. If you want to write some tests, you can use a testing framework like Jest or Cypress.
 
-## Questions
-
-If you have any questions about this project, you can contact me at sc299792458@gmail.com. You can also follow me on GitHub at https://github.com/samunicode.
